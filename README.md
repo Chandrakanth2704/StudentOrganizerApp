@@ -6,10 +6,6 @@ The project demonstrates core Android development concepts including **declarati
 
 ---
 
-![Kotlin](https://shields.io)
-![Jetpack Compose](https://shields.io)
-
-
 ## 📱 Overview
 
 The Student Organizer App is designed as a lightweight academic productivity application for managing student-related information and assignments.
